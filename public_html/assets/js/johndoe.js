@@ -20,7 +20,7 @@
         var link = document.createElement('a');
         
         // Spécifiez le chemin de votre fichier CV
-        link.href = '../../../cv data.pdf';  // Remplacez par le chemin réel de votre fichier CV
+        link.href = 'assets/cv data.pdf';  // Remplacez par le chemin réel de votre fichier CV
         
         // Indiquez que le fichier doit être téléchargé
         link.download = 'CV_Fawasi_Shittu.pdf';  // Spécifiez le nom sous lequel le fichier sera téléchargé
